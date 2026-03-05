@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+outputs/
+unity-visualizer/
+unity-visualizer.zip
+report.zip
